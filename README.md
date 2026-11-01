@@ -232,8 +232,8 @@ The system provides multiple authentic Sarvam AI neural voices:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Kush5699/Hackathon-Goa.git
-cd Hackathon-Goa
+git clone https://github.com/Kush5699/dhvani-indic-voice-rag.git
+cd dhvani-indic-voice-rag
 ```
 
 ### 2. Configure Environment Variables
